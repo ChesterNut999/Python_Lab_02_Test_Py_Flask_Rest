@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (Python_Lab_02_Test)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Python_Lab_01_Test" />
+    <orderEntry type="module" module-name="Python-Jogo-da-Advinhacao-main" />
+    <orderEntry type="module" module-name="Python-Jogo-da-Forca-master" />
   </component>
 </module>

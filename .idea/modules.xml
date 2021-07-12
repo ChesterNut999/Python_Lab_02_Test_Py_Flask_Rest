@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python-Jogo-da-Advinhacao-main/.idea/Python-Jogo-da-Advinhacao-main.iml" filepath="$PROJECT_DIR$/../Python-Jogo-da-Advinhacao-main/.idea/Python-Jogo-da-Advinhacao-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Jogo-da-Forca-master/.idea/Python-Jogo-da-Forca-master.iml" filepath="$PROJECT_DIR$/../Python-Jogo-da-Forca-master/.idea/Python-Jogo-da-Forca-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Lab_01_Test/.idea/Python_Lab_01_Test.iml" filepath="$PROJECT_DIR$/../Python_Lab_01_Test/.idea/Python_Lab_01_Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Lab_02_Test.iml" filepath="$PROJECT_DIR$/.idea/Python_Lab_02_Test.iml" />
     </modules>
   </component>
